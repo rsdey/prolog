@@ -1,3 +1,4 @@
+
 #include<iostream>
 #include<string.h>
 using namespace std;
@@ -115,7 +116,7 @@ void checking();
                         {
                           if(flag==0)
                           cout<<"\n\n SUBSTITUITION : ";
-                        cout<<"\n"<<argument[i+1][j]<<" = "<<argument[i][j];
+                        cout<<"\n"<<argument[i+1][j]<<" / "<<argument[i][j];
                          flag++;
                         }
                 }
