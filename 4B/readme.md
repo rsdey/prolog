@@ -1,4 +1,5 @@
 **********PROGRAM FOR UNIFICATION*********
+.
 Sample input :
 
 Enter number of predicates : 2
@@ -24,6 +25,8 @@ father(ramesh,ram)
 father(y,ram)
 
 **********UNIFICATION RESULT**********
+.
+
 
  SUBSTITUITION :
 y / ramesh
