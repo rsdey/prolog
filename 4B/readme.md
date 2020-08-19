@@ -20,7 +20,7 @@ Enter argument1:y
 
 Enter argument2:ram
 
- ********** THE PREDICATES ARE **********
+THE PREDICATES ARE :
 father(ramesh,ram)
 father(y,ram)
 
