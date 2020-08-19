@@ -27,4 +27,6 @@ father(y,ram)
 
  SUBSTITUITION :
 y / ramesh
+.
+
 Do you want to continue(y/n):
